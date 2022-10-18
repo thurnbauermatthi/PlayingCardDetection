@@ -11,4 +11,4 @@ Result image for a test image:
 ## YoloV5
 Result image for a test image:
 
-![alt text](https://github.com/thurnbauermatthi/PlayingCardDetection/blob/main/detection_result_image_yolov5.PNG?raw=true)
+![alt text](https://github.com/thurnbauermatthi/PlayingCardDetection/blob/main/detection_result_image_yolov5.jpg?raw=true)
