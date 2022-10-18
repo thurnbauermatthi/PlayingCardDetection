@@ -1,0 +1,6 @@
+train: ./train/images
+test: ./test/images
+val: ./valid/images
+
+nc: 32
+names: ['ace_of_acorns', 'ace_of_bells', 'ace_of_hearts', 'ace_of_leafs', 'acorn_eight', 'acorn_nine', 'acorn_seven', 'acorn_ten', 'bell_eight', 'bell_nine', 'bell_seven', 'bell_ten', 'heart_eight', 'heart_nine', 'heart_seven', 'heart_ten', 'king_of_acorns', 'king_of_bells', 'king_of_hearts', 'king_of_leafs', 'leaf_eight', 'leaf_nine', 'leaf_seven', 'leaf_ten', 'ober_of_acorns', 'ober_of_bells', 'ober_of_hearts', 'ober_of_leafs', 'unter_of_acorns', 'unter_of_bells', 'unter_of_hearts', 'unter_of_leafs']
